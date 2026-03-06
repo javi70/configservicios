@@ -1,0 +1,6 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://192.16.10.11:8761/eureka
+server:
+  port: 8100
